@@ -1,0 +1,5 @@
+{"eng": "word",
+"de": "word",
+"gender": "gender",
+"plural": "word",}
+
